@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+OpenAI
+spacy
+networkx
+python-multipart
